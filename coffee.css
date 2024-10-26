@@ -1,0 +1,27 @@
+.main_body{
+    width: 2000px;
+    height: 2000px;
+    border: 1px solid red;
+    margin: auto;
+   background-image: url("./bg.png");
+    background-size: cover;
+    background-position: center center; /* kono img dile backround r ai 3 ta property dite hobe */
+
+}
+
+.main_body header{
+    
+
+}
+.main_body header .logo{
+  
+}
+.main_body header .s_links{}
+.main_body header .s_links ul{
+  /*  display: flex; */
+}
+.main_body header .s_links ul li{}
+.main_body header .s_links ul li a{
+   /* color: white; */
+}
+.main_body header .s_links ul li a i{}
